@@ -1,0 +1,10 @@
+*.exe
+*.log
+verification/
+verification-tests.txt
+benchmark.txt
+.vs/
+bin/
+obj/
+.env*
+local-audio/
